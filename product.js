@@ -1,0 +1,7 @@
+export let favoritefood = ["Rice" , "Beans" , "Garri"]
+
+// console.log(favoritefood[0];
+// console.log(favoritefood[1];
+// console.log(favoritefood[2];
+
+favoritefood.push("Noddles");
